@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://ckpn3igg8ov7u"]
+
+[ext_resource type="Script" path="res://Addons/Trail3D/Trail3D.gd" id="1_gnysv"]
+
+[node name="Trail3D" type="Node3D"]
+script = ExtResource("1_gnysv")
